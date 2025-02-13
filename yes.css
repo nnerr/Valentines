@@ -4,10 +4,12 @@
 .kilig img{
     width: 200px;
 }
-
+body{
+				background: pink;
+				font-family: Poppins;
+}
 .kilig{
     display: flex;
-    background: pink;
     justify-content: center;
     align-items: center;
     flex-direction: column;
