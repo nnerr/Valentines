@@ -35,7 +35,7 @@ const bbtt11 = document.getElementById('bbtt11');
 const bbtt12 = document.getElementById('bbtt12'); 
 
 
-//IMAGESSSSSS///////
+//IMAGESSSSSS////
 
 const hands = document.getElementById('hands');
 const sadcat = document.getElementById('sadcat');
